@@ -6,7 +6,7 @@ import os
 import requests
 
 API_URL = "https://api.deepseek.com/chat/completions"
-API_KEY = os.getenv("DEEPSEEK_API_KEY", "sk-0cf063007aeb4f31b7389421aadf19b3")
+API_KEY = os.getenv("_API_KEY", "xxxxx")
 
 
 def call_llm(system_prompt, user_text, temperature=0.3):
