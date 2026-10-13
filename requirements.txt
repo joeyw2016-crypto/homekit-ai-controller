@@ -1,0 +1,6 @@
+fastapi>=0.110
+uvicorn>=0.29
+requests>=2.31
+HAP-python>=5.0
+python-dotenv>=1.0
+（内容由AI生成，仅供参考）

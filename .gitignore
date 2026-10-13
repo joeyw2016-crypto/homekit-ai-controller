@@ -1,0 +1,17 @@
+# 环境与密钥
+.env
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# HomeKit 配对状态
+homekit.state
+homekit.state.*
+
+# 编辑器
+.idea/
+.vscode/
+.DS_Store
